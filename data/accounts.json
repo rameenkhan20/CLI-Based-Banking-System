@@ -1,0 +1,215 @@
+[
+  {
+    "balance": 0,
+    "accountNumber": 544356,
+    "accountType": "current",
+    "transactions": [
+      {
+        "transactionType": "deposit",
+        "transactionId": 1,
+        "amount": 5000,
+        "sentBy": 3,
+        "sentTo": 544356,
+        "balance": 5000,
+        "dateAndTime": "Mon Aug 31 2026 16:48:42 GMT+0500 (Pakistan Standard Time)"
+      }
+    ],
+    "accOwnerId": 3
+  },
+  {
+    "balance": 19800,
+    "accountNumber": 568218,
+    "accountType": "current",
+    "transactions": [
+      {
+        "transactionType": "deposit",
+        "transactionId": 1,
+        "amount": 45000,
+        "sentBy": 9,
+        "sentTo": 568218,
+        "balance": 45000,
+        "dateAndTime": "Tue Sep 01 2026 10:21:00 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "withdraw",
+        "transactionId": 2,
+        "amount": 5000,
+        "sentBy": 9,
+        "sentTo": 568218,
+        "balance": 40000,
+        "dateAndTime": "Tue Sep 01 2026 10:23:41 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "withdraw",
+        "transactionId": 3,
+        "amount": 2000,
+        "sentBy": 9,
+        "sentTo": 568218,
+        "balance": 43000,
+        "dateAndTime": "Tue Sep 01 2026 14:34:57 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "deposit",
+        "transactionId": 4,
+        "amount": 3000,
+        "sentBy": 9,
+        "sentTo": 568218,
+        "balance": 48000,
+        "dateAndTime": "Tue Sep 01 2026 14:43:33 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "withdraw",
+        "transactionId": 5,
+        "amount": 15000,
+        "sentBy": 9,
+        "sentTo": 568218,
+        "balance": 24800,
+        "dateAndTime": "Tue Sep 01 2026 16:52:10 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 6,
+        "amount": 15000,
+        "sentBy": 9,
+        "sentTo": 568218,
+        "balance": 24800,
+        "dateAndTime": "Tue Sep 01 2026 16:52:10 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "withdraw",
+        "transactionId": 7,
+        "amount": 5000,
+        "sentBy": 9,
+        "sentTo": 0,
+        "balance": 19800,
+        "dateAndTime": "Tue Sep 01 2026 17:05:24 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 8,
+        "amount": 5000,
+        "sentBy": 9,
+        "sentTo": 605394,
+        "balance": 19800,
+        "dateAndTime": "Tue Sep 01 2026 17:05:24 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 9,
+        "amount": -50,
+        "sentBy": 9,
+        "sentTo": 605394,
+        "balance": 19800,
+        "dateAndTime": "Tue Sep 01 2026 20:06:26 GMT+0500 (Pakistan Standard Time)"
+      }
+    ],
+    "accOwnerId": 9
+  },
+  {
+    "balance": 35200,
+    "accountNumber": 605394,
+    "accountType": "current",
+    "transactions": [
+      {
+        "transactionType": "deposit",
+        "transactionId": 1,
+        "amount": 10000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 10000,
+        "dateAndTime": "Tue Sep 01 2026 13:50:24 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "withdraw",
+        "transactionId": 2,
+        "amount": 3000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 7000,
+        "dateAndTime": "Tue Sep 01 2026 14:48:17 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "deposit",
+        "transactionId": 3,
+        "amount": 15000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 30200,
+        "dateAndTime": "Tue Sep 01 2026 16:52:10 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 4,
+        "amount": 15000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 30200,
+        "dateAndTime": "Tue Sep 01 2026 16:52:10 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "deposit",
+        "transactionId": 5,
+        "amount": 5000,
+        "sentBy": 11,
+        "sentTo": 11,
+        "balance": 35200,
+        "dateAndTime": "Tue Sep 01 2026 17:05:24 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 6,
+        "amount": 5000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 35200,
+        "dateAndTime": "Tue Sep 01 2026 17:05:24 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "withdraw",
+        "transactionId": 7,
+        "amount": 20000,
+        "sentBy": 11,
+        "sentTo": 0,
+        "balance": 15200,
+        "dateAndTime": "Tue Sep 01 2026 20:02:26 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "deposit",
+        "transactionId": 8,
+        "amount": 20000,
+        "sentBy": 11,
+        "sentTo": 11,
+        "balance": 35200,
+        "dateAndTime": "Tue Sep 01 2026 20:02:26 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 9,
+        "amount": 20000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 35200,
+        "dateAndTime": "Tue Sep 01 2026 20:02:26 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 10,
+        "amount": 20000,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 35200,
+        "dateAndTime": "Tue Sep 01 2026 20:02:26 GMT+0500 (Pakistan Standard Time)"
+      },
+      {
+        "transactionType": "transfer",
+        "transactionId": 11,
+        "amount": -50,
+        "sentBy": 11,
+        "sentTo": 605394,
+        "balance": 35200,
+        "dateAndTime": "Tue Sep 01 2026 20:06:26 GMT+0500 (Pakistan Standard Time)"
+      }
+    ],
+    "accOwnerId": 11
+  }
+]

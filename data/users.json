@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "email": "sarah.jones@example.com",
+    "username": "sarahj",
+    "password": "P@ssw0rd123"
+  },
+  {
+    "id": 2,
+    "email": "mike.chen@example.com",
+    "username": "mikechen",
+    "password": "SecurePass456!"
+  },
+  {
+    "id": 3,
+    "email": "amelia.khan@example.com",
+    "username": "amelia_k",
+    "password": "Str0ngKey789#"
+  },
+  {
+    "id": 4,
+    "email": "david.brown@example.com",
+    "username": "reddieBaddie",
+    "password": "MyPass2024$"
+  },
+  {
+    "id": 5,
+    "username": "noorklm",
+    "email": "nnook",
+    "password": "321"
+  },
+  {
+    "id": 6,
+    "username": "zimeee",
+    "email": "pepeOn@",
+    "password": "34"
+  },
+  {
+    "id": 8,
+    "username": "kjala",
+    "email": "r@wq",
+    "password": "2"
+  },
+  {
+    "id": 9,
+    "username": "dilawaiz",
+    "email": "defodil@45",
+    "password": "30"
+  },
+  {
+    "id": 10,
+    "username": "saraYaS",
+    "email": "sara@0903",
+    "password": "88"
+  },
+  {
+    "id": 11,
+    "username": "usman",
+    "email": "usm@gmail.com",
+    "password": "123"
+  },
+  {
+    "id": 11,
+    "username": "kalamie",
+    "email": "klm@3",
+    "password": "31"
+  },   
+  {
+    "id": 12,
+    "username": "tra",
+    "email": "trars",
+    "password": "22"
+  }
+]
